@@ -16,7 +16,13 @@
     "esModuleInterop": true,
     "isolatedModules": true,
     "resolveJsonModule": true,
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@components/*": ["./src/components/*"],
+      "@models/*": ["./src/models/*"],
+      "@pages/*": [". /src/pages/*"],
+    }
   },
   "exclude": ["node_modules", "dist"],
   "include": ["**/*.ts", "**/*.tsx"]
