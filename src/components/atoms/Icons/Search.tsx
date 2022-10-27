@@ -1,4 +1,4 @@
-import { IconProps } from "@models/types/Props";
+import { IconProps } from "./index";
 
 export function SearchIcon({ className }: IconProps): JSX.Element {
   return (

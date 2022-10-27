@@ -1,4 +1,4 @@
-import { Button } from "@components/atoms/Button/Button";
+import { Button } from "@components/atoms/Button/index";
 import { Icon } from "@components/atoms/Icons/index";
 import { InputField } from "@components/atoms/InputField/index";
 

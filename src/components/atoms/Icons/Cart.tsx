@@ -1,5 +1,4 @@
-import { IconProps } from "@models/types/Props";
-
+import { IconProps } from "./index";
 export function CartIcon({ className }: IconProps): JSX.Element {
   return (
     <svg

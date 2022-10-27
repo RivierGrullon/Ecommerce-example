@@ -1,9 +1,18 @@
-import { InputProps } from "@models/types/Props";
+import { ChangeEventHandler } from "react";
 
-//create a input component
-export const InputField = ({  type, placeholder, className }: InputProps): JSX.Element => {
+interface InputProps{
+    className?: any;
+    children?: React.ReactNode;
+    value?: string;
+    type?: string;
+    placeholder?: string;
+    OnChange?: ChangeEventHandler<HTMLInputElement>;
+}
+
+
+export function InputField({  type, placeholder, className }: InputProps): JSX.Element {
     return (
-        <div className="flex  ">
+        <div className="flex">
             <input
                 className={`border-2 border-gray-300 p-2 rounded-md outline-none ${className}`}
                 type={type}
