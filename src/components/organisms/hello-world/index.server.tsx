@@ -14,11 +14,11 @@ export default function HelloWorld() {
       <Button className={"bg-black text-white"}>
         <p className="p-md">Get it now</p>
       </Button>
-      <Icon icon="cart"></Icon>
-      <Icon icon="search"></Icon>
-      <Icon></Icon>
+      <Icon icon="cart"/>
+      <Icon icon="search"/>
+      <Icon/>
       <Button className={"bg-gray-400 rounded-full"}>
-        <Icon icon="cart" className={""}></Icon>
+        <Icon icon="cart" className={""}/>
       </Button>
       <SearchBar></SearchBar>
 

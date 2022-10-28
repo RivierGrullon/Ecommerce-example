@@ -26,9 +26,9 @@ export function ProductThumbnail({
         onClick={handleCLick}
       >
         {isLiked ? (
-          <Icon icon="heart" filled={true}></Icon>
+          <Icon icon="heart" filled={true}/>
         ) : (
-          <Icon icon="heart" className={"text-white"}></Icon>
+          <Icon icon="heart" className={"text-white"}/>
         )}
       </Button>
     </div>
