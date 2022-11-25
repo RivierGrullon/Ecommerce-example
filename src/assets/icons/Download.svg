@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14.8" height="15.5" viewBox="0 0 14.8 15.5">
+  <defs>
+    <clipPath id="clip-Download">
+      <rect width="14.8" height="15.5"/>
+    </clipPath>
+  </defs>
+  <g id="Download" clip-path="url(#clip-Download)">
+    <rect width="14.8" height="15.5" fill="#fff"/>
+    <g id="Group_971" data-name="Group 971" transform="translate(1 1)">
+      <g id="Group_901" data-name="Group 901" transform="translate(3.071 0)">
+        <g id="Group_900" data-name="Group 900" transform="translate(0 6.286)">
+          <line id="Line_50" data-name="Line 50" x1="3.429" y1="3.429" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+          <line id="Line_53" data-name="Line 53" y1="3.429" x2="3.429" transform="translate(3.429)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <line id="Line_52" data-name="Line 52" y1="9.714" transform="translate(3.429)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+      </g>
+      <g id="Group_902" data-name="Group 902" transform="translate(0 8.928)">
+        <line id="Line_54" data-name="Line 54" y2="4.571" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+        <line id="Line_56" data-name="Line 56" y2="4.571" transform="translate(12.821)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+        <line id="Line_55" data-name="Line 55" x1="12.821" transform="translate(0 4.571)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
